@@ -22,7 +22,7 @@
   pip install numpy
   ~~~~
 
-  - Depois rodar o stramlit.
+- Depois rodar o stramlit.
    ~~~sh
   streamlit run dashboard.py
    ~~~~
